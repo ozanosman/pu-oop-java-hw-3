@@ -34,7 +34,7 @@ public class Modal extends JDialog
     }
 
     /**
-     * Метод за визуализиране на прозореца "Modal".
+     * Метод за инстанция на прозореца "Modal".
      *
      * @param parent    родителят, който JFrame ще го използва
      * @param title     заглавие на прозореца
